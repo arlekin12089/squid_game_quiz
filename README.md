@@ -22,3 +22,4 @@ Frågorna ska besvaras med <input type=”radio”> för svarsalternativen.
 En fråga ska besvaras med checkboxar (minst tre svarsalternativ). För att få rätt på denna fråga, behöver samtliga rätta svarsalternativ vara ifyllda, varken fler eller mindre.
 
 Längst ned i quizet ska det finnas en knapp med texten “Check answers”. När den klickas på, ska det visas hur många rätt användaren hade (ska skrivas ut i DOM:en). Om användaren har över hälften rätt, ska meddelandet stå i orange färg. Om användaren har över 75% rätt, ska meddelandet stå i grön färg.
+![This is an image](https://arlekin12089.github.io/squid_game_quiz/)
