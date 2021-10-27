@@ -425,3 +425,7 @@ body.dark {
   margin-bottom: 20px;
   margin-top: 20px;
 }
+
+#answers_container {
+	padding-bottom: 30px;
+}
